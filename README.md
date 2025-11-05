@@ -21,7 +21,7 @@ A aplicação permite que o usuário digite seu nome em um campo de texto e rece
 
 ## 🖼️ Preview da Aplicação
 
-![Preview do Projeto](./public/preview.png)
+![Preview do Projeto](./src/assets/projeto.png)
 > 💡 *Substitua o arquivo `preview.png` por um print da sua aplicação e mantenha esse nome para o README exibir automaticamente.*
 
 ---
